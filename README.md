@@ -1,4 +1,4 @@
-# celebraties
+# celebrities
 
 A new Flutter project.
 
