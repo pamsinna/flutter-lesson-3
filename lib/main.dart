@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:celebraties/home.dart';
+import 'package:celebrities/home.dart';
 
 void main() {
   runApp(const MyApp());

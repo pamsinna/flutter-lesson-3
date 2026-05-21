@@ -1,11 +1,11 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:celebraties/detail.dart';
+import 'package:celebrities/detail.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:record/record.dart';
-import 'package:celebraties/stt.dart';
-import 'package:celebraties/tts.dart';
+import 'package:celebrities/stt.dart';
+import 'package:celebrities/tts.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
